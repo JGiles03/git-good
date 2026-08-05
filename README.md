@@ -1,4 +1,3 @@
-<<<<<<< HEADafdba
 sdgsdg
 
 # \_I AM AN ITALIC TITLE_afdbadfbadfb
@@ -11,8 +10,6 @@ fbdfb
 <<<<<<< HEADdfbfdbdfbd
 dsgsdgsdg
 fbdfb 2. point 2dfbadfbbadfbadfbafdbbfdb
-=======dfbdfbdf
-=======
 
 dfbdf
 
