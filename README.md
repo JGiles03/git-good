@@ -48,10 +48,10 @@ dfbdfbdfbdbsdvsdvsdv
 
 2. point 2sdvsdv
    > > > > > > > 351134c0fd26bc2ac07086d31deb0f955fbd814d
-   > > > > > > > dbdb
+   > > > > > > > dbdbsdvsdvs
 
 # SABOTAGE MUAHAHAHAAHAH
-
+sdvdsv
 ```javascript
 function farewell(name) {
   return "Goodbye forever, " + name;
