@@ -10,23 +10,23 @@ gsdgsgsdgdfbdfbdfbd
 fbdfb
 <<<<<<< HEADdfbfdbdfbd
 dsgsdgsdg
-fbdfb 2. point 2dfbadfbbadfbadfbafdb
+fbdfb 2. point 2dfbadfbbadfbadfbafdbbfdb
 =======dfbdfbdf
 =======
 
+dfbdf
 
-
-
+erbdfb
 speed up
+dfb
+dfbgit a
 
-
-
-
-
+sdvsfbf
 
 gitting good - we are gitting good and getting good at gitting gitting greater code
 THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
->>>>>>> df08e29fbaa881ca997d008f8c171934f46f5684
+
+> > > > > > > df08e29fbaa881ca997d008f8c171934f46f5684
 
 ```javascriptfdbdfb
 console.log("You're a git");
@@ -47,18 +47,19 @@ dfb
 <<<<<<< HEAD
 dfbdfbdfbdbsdvsdvsdv
 
-- SUPER EVIL BULLET POINTdfbdfbdfbsdvsddv 
+- SUPER EVIL BULLET POINTdfbdfbdfbsdvsddv
 
 2. point 2sdvsdv
    > > > > > > > 351134c0fd26bc2ac07086d31deb0f955fbd814d
    > > > > > > > dbdb
 
-SABOTAGE MUAHAHAHAAHAH
-=======
+# SABOTAGE MUAHAHAHAAHAH
+
 ```javascript
 function farewell(name) {
-    return "Goodbye forever, " + name;
+  return "Goodbye forever, " + name;
 }
 console.log(farewell(Mudathir));
 ```
->>>>>>> 878f16d2812e68066dd52c5406c705386a33e593
+
+> > > > > > > 878f16d2812e68066dd52c5406c705386a33e593
