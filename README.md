@@ -10,18 +10,15 @@ fbdfb
 <<<<<<< HEADdfbfdbdfbd
 dsgsdgsdg
 fbdfb 2. point 2dfbadfbbadfbadfbafdbbfdb
-
+sdvse
 dfbdf
 
-erbdfb
-speed up
-dfb
-dfbgit a
+erbdfb g
+speed upwe
+dfbgit a weg
+wegew
 
-sdvsfbf
-
-gitting good - we are gitting good and getting good at gitting gitting greater code
-THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
+gitting good - we are gittg R GET OUT OF HERE
 
 > > > > > > > df08e29fbaa881ca997d008f8c171934f46f5684
 
@@ -29,8 +26,9 @@ THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
 console.log("You're a git");
 ```
 
+ewg ew
 dfbdfbdfbdsvdsv
-gitting good
+gitting goodg eg
 we will git good doing this!
 
 the boys are gitting!dfbdvssd
@@ -51,7 +49,9 @@ dfbdfbdfbdbsdvsdvsdv
    > > > > > > > dbdbsdvsdvs
 
 # SABOTAGE MUAHAHAHAAHAH
+
 sdvdsv
+
 ```javascript
 function farewell(name) {
   return "Goodbye forever, " + name;
@@ -59,7 +59,7 @@ function farewell(name) {
 console.log(farewell(Mudathir));
 ```
 
-> > > > > > > 878f16d2812e68066dd52c5406c705386a33e593
+> > > > > > > > > > 878f16d2812e68066dd52c5406c705386a33e593
 
 w
 w
@@ -84,12 +84,14 @@ w
 w
 w
 w
-
 w
-
+w
+w
 w
 
 w
 w
 
 we just keep winning
+
+yes we do
