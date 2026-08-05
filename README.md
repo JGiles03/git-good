@@ -1,7 +1,14 @@
-<<<<<<< HEAD
+<<<<<<< HEADafdba
+sdgsdg
 
-# _I AM AN ITALIC TITLE_
+# \_I AM AN ITALIC TITLE_afdbadfbadfb
 
-- evil bullet point
+sdgds
+dabdfbafd
+gsdgsgsdg
 
-2. point 2
+- evil bullet pointafdadfb
+  bafddgdgsdg
+  dsgsdgsdg
+
+2. point 2dfbadfbbadfbadfbafdb
