@@ -16,3 +16,9 @@ the boys are gitting!
  more text down here
 THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
 
+```javascript
+function farewell(name) {
+    return "Goodbye forever, " + name;
+}
+console.log(farewell(Mudathir));
+```
