@@ -3,6 +3,7 @@ sdgsdg
 
 # \_I AM AN ITALIC TITLE_afdbadfbadfb
 
+<<<<<<< HEAD
 sdgds
 dabdfbafddfbdfbdfb
 gsdgsgsdgdfbdfbdfbd
@@ -11,6 +12,21 @@ fbdfb
 dsgsdgsdg
 fbdfb 2. point 2dfbadfbbadfbadfbafdb
 =======dfbdfbdf
+=======
+
+
+
+
+speed up
+
+
+
+
+
+
+gitting good - we are gitting good and getting good at gitting gitting greater code
+THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
+>>>>>>> df08e29fbaa881ca997d008f8c171934f46f5684
 
 ```javascriptfdbdfb
 console.log("You're a git");
