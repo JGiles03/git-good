@@ -5,7 +5,7 @@ gitting good - we are gitting good and getting good at gitting gitting greater c
 THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
 
 ```javascript
-console.log("Hellow people");
+console.log("You're a git");
 ```
 
 gitting good
@@ -16,3 +16,7 @@ the boys are gitting!
  more text down here
 THIS IS A HOSTILE TAKE OVER GET OUT OF HERE
 
+# *I AM AN ITALIC TITLE*
+
+- SUPER EVIL BULLET POINT
+2. point 2
